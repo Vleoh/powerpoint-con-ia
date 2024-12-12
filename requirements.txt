@@ -1,0 +1,13 @@
+pdfkit
+reportlab
+requests
+flask
+python-dotenv
+python-pptx
+pywin32
+pythoncom-binary
+langchain
+langchain-community
+faiss-cpu
+ctransformers
+sentence-transformers

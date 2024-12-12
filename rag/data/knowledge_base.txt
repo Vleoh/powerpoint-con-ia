@@ -1,0 +1,42 @@
+Las presentaciones efectivas son claras y concisas.
+Cada diapositiva debe tener un propósito claro.
+Es importante mantener un diseño consistente.
+Los puntos clave deben ser fáciles de leer y entender.
+Use imágenes relevantes para apoyar el contenido.
+La regla del 6x6: no más de 6 puntos por slide, no más de 6 palabras por punto.
+Las transiciones deben ser suaves y profesionales.
+El contenido debe estar organizado de manera lógica.
+Use fuentes legibles y tamaños de texto apropiados.
+Los colores deben ser consistentes y profesionales.
+Evite el exceso de texto en las diapositivas.
+Las animaciones deben usarse con moderación.
+Incluya una diapositiva de título clara.
+Termine con una diapositiva de conclusión o llamada a la acción.
+Practique la presentación antes de entregarla.
+Use contraste adecuado entre texto y fondo.
+Incluya números de página cuando sea apropiado.
+Revise la ortografía y gramática cuidadosamente.
+Mantenga un tono profesional y consistente.
+Use gráficos y diagramas cuando ayuden a explicar conceptos.
+
+Cámaras de seguridad:
+Las cámaras de seguridad son dispositivos fundamentales para la vigilancia y protección.
+Existen diferentes tipos: IP, analógicas, PTZ, térmicas.
+Las cámaras IP permiten monitoreo remoto a través de internet.
+La resolución es un factor clave en la calidad de imagen.
+La visión nocturna es importante para vigilancia 24/7.
+El almacenamiento puede ser local o en la nube.
+Los sistemas modernos incluyen detección de movimiento.
+La instalación debe considerar ángulos y cobertura.
+El mantenimiento regular asegura funcionamiento óptimo.
+La integración con otros sistemas de seguridad es común.
+Las grabaciones pueden usarse como evidencia legal.
+La privacidad debe considerarse en la instalación.
+Los sistemas pueden incluir audio bidireccional.
+El respaldo de energía es crucial para operación continua.
+La conectividad determina la calidad del streaming.
+Los análisis de video añaden inteligencia al sistema.
+La escalabilidad permite expansión futura.
+El cifrado protege las transmisiones de video.
+Los costos varían según características y calidad.
+La capacitación del personal es importante.
